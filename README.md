@@ -34,6 +34,8 @@ Here is the screenshot of HuggingFace model:
 And this is the output of the notebook inference and analysis:
 ![result](output.jpg)
 
+The fixes that were required for the cloned original notebook are commented in the each notebook.
+
 ## The model
 
 The model is a summarizer of two peoples chat conversations.
